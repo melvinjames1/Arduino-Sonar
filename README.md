@@ -20,11 +20,11 @@ This Arduino project provides a simple guide to building a SONAR device at home 
 
 2. Connect the GND pin of the ultrasonic sensor to any GND pin on the Arduino.
 
-3. Connect the Trig pin of the ultrasonic sensor to digital pin 9 on the Arduino.
+3. Connect the Trig pin of the ultrasonic sensor to digital any vecant pin on the Arduino.
 
-4. Connect the Echo pin of the ultrasonic sensor to digital pin 10 on the Arduino.
+4. Connect the Echo pin of the ultrasonic sensor to digital any vecant pin on the Arduino.
 
-5. Connect the signal wire of the servo motor to digital pin 6 on the Arduino.
+5. Connect the signal wire of the servo motor to digital any vecant pin on the Arduino.
 
 6. Connect the power (usually red) and ground (usually brown) wires of the servo motor to the 5V and GND pins on the Arduino respectively.
 
